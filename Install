@@ -1,0 +1,13 @@
+Mettre en place un serveur Web : Redis
+
+Mettre en place un serveur Web (27/28) : Redis
+https://www.youtube.com/watch?v=T87nZTokTio
+
+apt-get install redis-server
+
+cat /etc/redis/redis.conf
+
+Tutoriel Redis : Les bases de Redis
+https://www.youtube.com/watch?time_continue=1&v=KUmXD_ubJU0&feature=emb_logo
+
+
